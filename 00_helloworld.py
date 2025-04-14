@@ -1,0 +1,26 @@
+print("Hello World 😊")
+
+print("             1")
+print('           2 3')
+print("         4 5 6")
+print("      7 8 9 10")
+
+print("BBBBBBBBBBBBBBBBBB"       ,   'RRRRRRRRRRRRRRRRRRRRRR'                                   )
+print('BB                BBB'    ,  'RR                    RRR'                                   )
+print("BB                  BB"   ,  'RR                    RRRR'                                   )
+print('BB                   BB'  ,                                     )
+print("BB                   BB"  ,                                     )
+print("BB                   BB"  ,                                     )
+print('BB                   BB'  ,                                   )
+print('BB                 BB'    ,                                    )
+print("BBBBBBBBBBBBBBBBBBBB"     ,                                    )
+print('BB                BBB'    ,                                  )
+print("BB                  BB"   ,                                  )
+print('BB                   BB'  ,                                   )
+print("BB                   BB"  ,                                 )
+print("BB                   BB"  ,                                    )
+print('BB                   BB'  ,                                    )
+print('BB                 BB'    ,                                  )
+print("BBBBBBBBBBBBBBBBBBBB"     ,                                   )
+
+
